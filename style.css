@@ -1,0 +1,41 @@
+#loggg
+{
+    background-image: linear-gradient(to bottom right, blueviolet, azure, chartreuse);
+	margin-left: 500px;
+	color:darkgoldenrod
+}
+
+#page
+{
+    background: darkgoldenrod;
+}
+
+.login_div1 , .login_div2
+	{
+		background: linear-gradient(to bottom left, blueviolet, azure, chartreuse);
+		margin-left: 5px;
+		padding: 20px;
+		float: none;
+		border-radius: 15px;
+	}
+
+#P1Div, #P2Div
+{
+	text-align: center;
+}
+
+#btn
+{
+	margin-left: 20px;
+	background-color: darkgoldenrod;
+}
+
+#output
+{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #aa4465;
+	padding: 10px;
+	float: none;
+	text-align: center;
+}
